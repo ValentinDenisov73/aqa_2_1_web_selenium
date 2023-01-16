@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ni8prh3twxb7yrt7?svg=true)](https://ci.appveyor.com/project/ValentinDenisov73/aqa-2-1-web-selenium)
